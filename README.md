@@ -28,7 +28,11 @@ According to the information provided, a webpage meets accessibility standards w
 
 
 ## Screenshot 
-The following image displays the web application's updated appearance and functionality:
+The following images display the web application's updated appearance and functionality:
+<img width="1440" alt="Screen Shot 2023-04-16 at 7 28 50 PM" src="https://user-images.githubusercontent.com/117132129/232349394-a7c215e3-40d3-4367-a334-1e956ade6b4c.png">
+<img width="1440" alt="Screen Shot 2023-04-16 at 7 34 13 PM" src="https://user-images.githubusercontent.com/117132129/232349540-085175bd-2599-4c24-876e-0a93d547edc1.png">
+<img width="1440" alt="Screen Shot 2023-04-16 at 7 41 13 PM" src="https://user-images.githubusercontent.com/117132129/232349838-f98e501d-0c84-4df4-b39c-5e823ca62cc9.png">
+
 
 ## URL of the deployed application
 https://ima2132.github.io/horiseon/ 
