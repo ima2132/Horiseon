@@ -1,4 +1,4 @@
-# Module 1: Horiseon Code Refactor 
+# Horiseon Code Refactor 
 
 ## Description 
 
