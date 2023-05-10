@@ -1,4 +1,14 @@
 # Horiseon Code Refactor 
+## Table of Contents 
+- [Description](#description)
+- [User Story](#user-story)
+- [Acceptance Criteria](#acceptance-criteria)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [Deployed URL](#deployed-url)
+- [Credits](#credits)
+- [License](#license)
 
 ## Description 
 
@@ -8,7 +18,9 @@ There are several motives behind this project. It marks the introduction to HTML
 
 ## User Story
 AS A marketing agency
+
 I WANT a codebase that follows accessibility standards
+
 SO THAT our own site is optimized for search engines
 
 ## Acceptance Criteria
@@ -26,17 +38,6 @@ According to the information provided, a webpage meets accessibility standards w
 * WHEN I view the title element
 * THEN I find a concise, descriptive title
 
-
-## Screenshot 
-The following images display the web application's updated appearance and functionality:
-<img width="1440" alt="Screen Shot 2023-04-16 at 7 28 50 PM" src="https://user-images.githubusercontent.com/117132129/232349394-a7c215e3-40d3-4367-a334-1e956ade6b4c.png">
-<img width="1440" alt="Screen Shot 2023-04-16 at 7 34 13 PM" src="https://user-images.githubusercontent.com/117132129/232349540-085175bd-2599-4c24-876e-0a93d547edc1.png">
-<img width="1440" alt="Screen Shot 2023-04-16 at 7 41 13 PM" src="https://user-images.githubusercontent.com/117132129/232349838-f98e501d-0c84-4df4-b39c-5e823ca62cc9.png">
-
-
-## URL of the deployed application
-https://ima2132.github.io/horiseon/ 
-
 ## Installation 
 
 N/A
@@ -45,7 +46,20 @@ N/A
 
 This site consists of information on the fictional services Horiseon offers. This module is an example of how one can refactor/simplify code and make it more accessible for users. 
 
-## Credit 
+
+## Screenshots 
+The following images display the web application's updated appearance and functionality:
+
+<img width="1440" alt="Screen Shot 2023-04-16 at 7 28 50 PM" src="https://user-images.githubusercontent.com/117132129/232349394-a7c215e3-40d3-4367-a334-1e956ade6b4c.png">
+<img width="1440" alt="Screen Shot 2023-04-16 at 7 34 13 PM" src="https://user-images.githubusercontent.com/117132129/232349540-085175bd-2599-4c24-876e-0a93d547edc1.png">
+<img width="1440" alt="Screen Shot 2023-04-16 at 7 41 13 PM" src="https://user-images.githubusercontent.com/117132129/232349838-f98e501d-0c84-4df4-b39c-5e823ca62cc9.png">
+
+
+## Deployed URL
+https://ima2132.github.io/horiseon/ 
+
+
+## Credits 
 The original page and style was designed by Horiseon Social Solution Services, Inc. 
 
 ## License
