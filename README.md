@@ -56,7 +56,7 @@ The following images display the web application's updated appearance and functi
 
 
 ## Deployed URL
-https://ima2132.github.io/horiseon/ 
+https://ima2132.github.io/Horiseon/
 
 
 ## Credits 
